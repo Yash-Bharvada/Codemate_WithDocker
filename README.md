@@ -58,7 +58,7 @@ Codemate is a fullstack AI-powered code assistant that helps you write, analyze,
      ```
 
 5. **Open in browser:**
-   - Visit [http://localhost:5173](http://localhost:5173)
+   - Visit [http://localhost:8080](http://localhost:8080)
 
 ## Usage
 - Write or paste code in the Monaco editor.
